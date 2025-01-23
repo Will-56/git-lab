@@ -60,3 +60,14 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
         modified:   README.md
         modified:   answers.md
+ANSWER 10
+No the changes I made on github were not on my local file
+
+ANSWER 11
+I get an error saying it failed to push
+
+ANSWER 12
+Yes the changes I made online were reflected in my copy
+
+ANSWER 13
+.  ..  .git  .gitignore  README.md
