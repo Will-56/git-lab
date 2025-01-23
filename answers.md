@@ -32,4 +32,31 @@ Untracked files:
         answers.md
 
 ANSWER 6
+On branch master
 
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+ANSWER 7
+On branch master
+nothing to commit, working tree clean
+
+ANSWER 8
+Author: Will-56 <willkash56@gmail.com>
+Date:   Wed Jan 22 19:07:40 2025 -0500
+
+    Initial commit
+
+ANSWER 9
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+        modified:   answers.md
